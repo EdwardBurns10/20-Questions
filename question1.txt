@@ -1,0 +1,11 @@
+Q:is it alive
+A:Jedi
+Q:is it clothes
+Q:is it for your feet
+A:sock
+Q:is it for your head
+A:hat
+Q:is it for your legs
+A:shorts
+A:shirt
+A:ball

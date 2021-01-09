@@ -1,0 +1,15 @@
+Q:is it round?
+Q:is it a fruit?
+Q:is it red?
+A:orange
+A:watermelon
+A:ball
+Q:does it keep you warm?
+A:jacket
+Q:is it electronic?
+A:laptop
+Q:does it help you see?
+A:glasses
+Q:is it a plant?
+A:tree
+A:Jedi
